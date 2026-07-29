@@ -109,9 +109,3 @@ Nicolás Zárate
 LinkedIn: https://www.linkedin.com/in/nicolaszarate99/
 
 GitHub: https://github.com/nicolas-zarate
-
-<img width="1869" height="676" alt="image" src="https://github.com/user-attachments/assets/2ea74436-2b38-4b8a-bdcf-aa67b05c91a9" />
-
-<img width="1871" height="772" alt="image" src="https://github.com/user-attachments/assets/c8bcfa2a-6ec3-4dbe-bfc8-f362c153b2ee" />
-
-
