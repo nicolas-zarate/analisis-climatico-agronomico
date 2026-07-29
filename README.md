@@ -1,2 +1,110 @@
-# analisis-climatico-agronomico
-Análisis climático desarrollado en Excel y Power Query para evaluar variables meteorológicas durante los períodos críticos de cultivos.
+# 🌾 Análisis Climático para la Evaluación de Períodos Críticos de Cultivos
+## Campaña 2025/2026
+
+Proyecto desarrollado en Microsoft Excel y Power Query para analizar el comportamiento de las variables climáticas durante los períodos críticos de los cultivos de maíz y soja, con el objetivo de facilitar la interpretación de la información y aportar evidencia para la toma de decisiones agronómicas.
+
+---
+
+## 📌 Objetivo
+
+Este proyecto integra información climática histórica con los períodos críticos de cultivos de maíz y soja para apoyar el análisis agronómico y la toma de decisiones.
+
+---
+
+## 📊 Variables analizadas
+
+- 🌡️ Temperatura máxima
+- 🌡️ Temperatura mínima
+- 🌡️ Temperatura media
+- 🌧️ Precipitaciones
+- 🌽 Períodos críticos de maíz
+- 🌱 Períodos críticos de soja
+
+---
+
+## 🛠️ Herramientas utilizadas
+
+- Microsoft Excel
+- Power Query
+- Gráficos combinados
+- Gestión y transformación de datos
+
+---
+
+## 📈 Funcionalidades
+
+- Integración de datos climáticos históricos.
+- Visualización conjunta de temperaturas y precipitaciones.
+- Representación gráfica de los períodos críticos mediante diagramas tipo Gantt.
+- Navegación mediante una portada interactiva.
+- Organización de la información para facilitar su interpretación.
+
+---
+
+## 📈 Resultado del proyecto
+
+Como resultado, se desarrolló una herramienta interactiva en Microsoft Excel que integra información climática con los períodos críticos de cultivos de maíz y soja.
+
+La solución permite:
+
+- Visualizar simultáneamente temperaturas, precipitaciones y períodos críticos.
+- Analizar el comportamiento climático durante las etapas de mayor sensibilidad de los cultivos.
+- Facilitar la interpretación de la información mediante gráficos combinados y una navegación intuitiva.
+- Servir como apoyo para el análisis técnico y la evaluación de posibles ajustes en las fechas de siembra.
+
+> **Vista principal del análisis**
+
+### Portada
+
+<img width="913" height="524" alt="image" src="https://github.com/user-attachments/assets/f5f10cb8-b356-4860-bd49-50e65b71d8db" />
+
+### Análisis de Maíz
+
+<img width="1747" height="639" alt="image" src="https://github.com/user-attachments/assets/b383d090-cd74-458d-9158-b5873d5e1695" />
+
+---
+
+## 📂 Estructura del proyecto
+
+📁 Analisis_Climatico_Agronomico
+
+├── Analisis_Climatico_Campaña_2025_26.xlsx
+
+├── README.md
+
+└── images/
+
+---
+
+## 💡 Aprendizajes
+
+Durante el desarrollo de este proyecto se trabajó en:
+
+- Limpieza y transformación de datos mediante Power Query.
+- Organización de información proveniente de distintas fuentes.
+- Diseño de visualizaciones orientadas a la toma de decisiones.
+- Construcción de una herramienta de análisis utilizando Microsoft Excel.
+- Documentación de un proyecto para portfolio técnico.
+
+---
+
+## 🚀 Posibles mejoras
+
+- Migrar el proyecto a Power BI.
+- Incorporar filtros dinámicos mediante segmentadores.
+- Automatizar la actualización de datos.
+- Incorporar indicadores climáticos adicionales.
+- Agregar comparaciones entre campañas.
+
+Nota: Aunque este tipo de solución podría implementarse en Power BI, el proyecto fue desarrollado en Excel debido a las herramientas disponibles en el entorno de trabajo. Esto permitió profundizar en el uso de Power
+Query, el modelado de datos y el diseño de visualizaciones interactivas utilizando únicamente funcionalidades nativas de Excel.
+
+---
+
+## 👨‍💻 Autor
+
+Nicolás Zárate
+
+LinkedIn: https://www.linkedin.com/in/nicolaszarate99/
+
+GitHub: *(tu perfil)*
