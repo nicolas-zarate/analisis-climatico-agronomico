@@ -53,7 +53,7 @@ La solución permite:
 - Facilitar la interpretación de la información mediante gráficos combinados y una navegación intuitiva.
 - Servir como apoyo para el análisis técnico y la evaluación de posibles ajustes en las fechas de siembra.
 
-> **Vista principal del análisis**
+---
 
 ### Portada
 
