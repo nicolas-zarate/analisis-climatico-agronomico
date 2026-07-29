@@ -69,7 +69,7 @@ La solución permite:
 
 📁 Analisis_Climatico_Agronomico
 
-├── Analisis_Climatico_Campaña_2526.xlsx
+├── Analisis_Climatico_2526.xlsx
 
 ├── README.md
 
