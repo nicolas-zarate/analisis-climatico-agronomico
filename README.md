@@ -67,13 +67,13 @@ La solución permite:
 
 ## 📂 Estructura del proyecto
 
+```text
+.
 ├── 📁 excel/
-
-    └── Analisis_Climatico_2526.xlsx
-    
-├── README.md
-
+│   └── Analisis_Climatico_2526.xlsx
+├──  README.md
 └── 📁 images/
+```
 
 ---
 
