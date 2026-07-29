@@ -68,8 +68,11 @@ La solución permite:
 ## 📂 Estructura del proyecto
 
 ├── 📁 excel/
+
     └── Analisis_Climatico_2526.xlsx
+    
 ├── README.md
+
 └── 📁 images/
 
 ---
