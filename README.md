@@ -70,8 +70,8 @@ La solución permite:
 ```text
 ├── 📁 excel/
 │   └── Analisis_Climatico_2526.xlsx
-├── README.md
-└── 📁 images/
+├── 📁 images/
+└── README.md
 ```
 
 ---
