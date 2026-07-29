@@ -7,7 +7,8 @@ Proyecto desarrollado en Microsoft Excel y Power Query para analizar el comporta
 
 ## 📌 Objetivo
 
-Este proyecto integra información climática histórica con los períodos críticos de cultivos de maíz y soja para apoyar el análisis agronómico y la toma de decisiones.
+Este proyecto integra información climática del último año con los períodos críticos de cultivos de maíz y soja para apoyar el análisis agronómico y la toma de decisiones.
+La pregunta central fue: ¿Cómo afecta el clima a nuestros cultivos en sus periodos críticos?
 
 ---
 
@@ -27,11 +28,11 @@ Este proyecto integra información climática histórica con los períodos crít
 - Microsoft Excel
 - Power Query
 - Gráficos combinados
-- Gestión y transformación de datos
+- Modelado y transformación de datos
 
 ---
 
-## 📈 Funcionalidades
+## 📋 Funcionalidades
 
 - Integración de datos climáticos históricos.
 - Visualización conjunta de temperaturas y precipitaciones.
@@ -68,7 +69,7 @@ La solución permite:
 
 📁 Analisis_Climatico_Agronomico
 
-├── Analisis_Climatico_Campaña_2025_26.xlsx
+├── Analisis_Climatico_Campaña_2526.xlsx
 
 ├── README.md
 
