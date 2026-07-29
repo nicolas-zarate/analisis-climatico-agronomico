@@ -67,13 +67,10 @@ La solución permite:
 
 ## 📂 Estructura del proyecto
 
-📁 Analisis_Climatico_Agronomico
-
-├── Analisis_Climatico_2526.xlsx
-
+├── 📁 excel/
+    └── Analisis_Climatico_2526.xlsx
 ├── README.md
-
-└── images/
+└── 📁 images/
 
 ---
 
