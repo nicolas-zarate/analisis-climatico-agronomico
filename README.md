@@ -60,7 +60,7 @@ La solución permite:
 
 ### Análisis de Maíz
 
-<img width="1747" height="639" alt="image" src="https://github.com/user-attachments/assets/b383d090-cd74-458d-9158-b5873d5e1695" />
+<img width="1865" height="700" alt="image" src="https://github.com/user-attachments/assets/2df90757-3e82-42bd-b3a8-1a4fd32134d8" />
 
 ---
 
@@ -107,4 +107,4 @@ Nicolás Zárate
 
 LinkedIn: https://www.linkedin.com/in/nicolaszarate99/
 
-GitHub: *(tu perfil)*
+GitHub: https://github.com/nicolas-zarate
