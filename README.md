@@ -69,7 +69,7 @@ La solución permite:
 
 ```text
 ├── 📁 data-preparation/
-│   ├── 📄README.md
+│   └── 📄README.md
 │
 ├── 📁 excel/
 │   └── Analisis_Climatico_2526.xlsx
