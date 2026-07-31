@@ -68,10 +68,15 @@ La solución permite:
 ## 📂 Estructura del proyecto
 
 ```text
+├── 📁 data-preparation/
+│   ├── 📄README.md
+│
 ├── 📁 excel/
 │   └── Analisis_Climatico_2526.xlsx
+│
 ├── 📁 images/
-└── README.md
+│
+└── 📄 README.md
 ```
 
 ---
