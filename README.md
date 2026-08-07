@@ -55,13 +55,15 @@ La solución permite:
 
 ---
 
-### Portada
+### Analizador de Maiz 25/26
 
-<img width="913" height="524" alt="image" src="https://github.com/user-attachments/assets/f5f10cb8-b356-4860-bd49-50e65b71d8db" />
+<img width="824" height="799" alt="image" src="https://github.com/user-attachments/assets/395457a9-bb01-4b3b-8e7f-14f66efc3933" />
 
-### Análisis de Maíz
 
-<img width="1865" height="700" alt="image" src="https://github.com/user-attachments/assets/2df90757-3e82-42bd-b3a8-1a4fd32134d8" />
+### Gráfico Análisis de Maíz
+
+<img width="1792" height="600" alt="image" src="https://github.com/user-attachments/assets/3d358376-a82d-4a16-9803-865870c9e8f6" />
+
 
 ---
 
@@ -103,6 +105,16 @@ Durante el desarrollo de este proyecto se trabajó en:
 
 Nota: Aunque este tipo de solución podría implementarse en Power BI, el proyecto fue desarrollado en Excel debido a las herramientas disponibles en el entorno de trabajo. Esto permitió profundizar en el uso de Power
 Query, el modelado de datos y el diseño de visualizaciones interactivas utilizando únicamente funcionalidades nativas de Excel.
+
+---
+
+## 🚀 Posibles mejoras
+
+- Incorporar nuevos cultivos (soja, trigo, girasol, sorgo, entre otros).
+- Agregar nuevas variables meteorológicas, como humedad relativa, radiación solar, velocidad del viento y evapotranspiración.
+- Permitir la comparación simultánea de múltiples fechas de siembra en un mismo gráfico.
+- Optimizar la descarga y procesamiento de grandes volúmenes de datos climáticos.
+- Desarrollar una versión web para facilitar el acceso desde cualquier dispositivo.
 
 ---
 
